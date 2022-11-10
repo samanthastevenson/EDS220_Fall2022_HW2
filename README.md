@@ -10,7 +10,7 @@ Contents:
 Information for Homework 2:
 - Due date = **Friday, November 18**
 - Deliverables:
-   - Completed Jupyter notebook template appropriate for your group 
+   - Jupyter notebook template - complete sections through "Metadata and Basic Visualization"
    - Any necessary data or supporting files included in the repo
    - README file edited to be appropriate for your project
 
@@ -19,7 +19,7 @@ Information for final project:
 - Presentation dates: **Nov 29; Dec 1**
 - Final writeup hand-in date: **Dec 5**
 - Deliverables (for in-class presentation):
-  - Jupyter notebook edited to reflect instructor feedback
+  - Jupyter notebook - all sections completed, initial sections edited to reflect grade feedback
   - Binder environment compiled to allow others to run code easily
   - Group-led presentation on assigned date
 
